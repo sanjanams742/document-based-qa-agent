@@ -1,0 +1,4 @@
+The platform is built using Python and Streamlit.
+FAISS is used as the vector database.
+SentenceTransformers generate embeddings.
+
